@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on developing the package for a bespoke Bayesian IRT Model that returns identifiable dimensions.
 - 👯 I’m always looking for new, interesting, projects. Reach out via [LinkedIn](https://www.linkedin.com/in/margaretjfoster/) or email.
 - ⚡ Fun fact: in a previous life, I was a qualitative threat hunter specializing in online extremist communities.
-- - 😄 Pronouns: she/her
+- 😄 Pronouns: she/her
 
 A guide to my previous work:
 
