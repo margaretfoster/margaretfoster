@@ -1,9 +1,9 @@
-### Hi! 👋 I am Margaret Foster, a data scientist. I am good at developing techniques to measure hard-to-capture questions. I focus especially on interpretable strategies, and would love to talk about why if you reach out via [LinkedIn](https://www.linkedin.com/in/margaretjfoster/) or email.
+### Hi! 👋 I am Margaret Foster, a data scientist. I am good at developing techniques to measure hard-to-capture questions. I focus especially on interpretable strategies for analyzing text and event data. 
  
 - 🔭 I’m currently working on developing the package for a bespoke Bayesian IRT Model that returns identifiable dimensions.
-- 👯 I’m always looking for new, interesting, projects.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: in a previous life, I was a qualitative threat hunter specializing in extremism.
+- 👯 I’m always looking for new, interesting, projects. Reach out via [LinkedIn](https://www.linkedin.com/in/margaretjfoster/) or email.
+- ⚡ Fun fact: in a previous life, I was a qualitative threat hunter specializing in online extremist communities.
+- - 😄 Pronouns: she/her
 
 A guide to my previous work:
 
