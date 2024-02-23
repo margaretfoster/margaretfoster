@@ -6,4 +6,4 @@
 - ⚡ Fun fact: in a previous life, I was a qualitative deep web threat hunter.
 
 A guide to my previous work:
-I have a long-running line of research on using machine learning, event data, and news reporting to estimate processes in militant groups.
+I have a long-running line of research on using machine learning, event data, and news reporting to estimate processes in militant groups. The most up-to-date status of that project can be viewed in a 2022 presentation that I gave to the Sciences Po médialab
