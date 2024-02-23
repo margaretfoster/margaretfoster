@@ -1,4 +1,4 @@
-### Hi! 👋 I am Margaret Foster, a data scientist. I am good at finding interpretable solutions to hard-to-measure questions.
+### Hi! 👋 I am Margaret Foster, a data scientist. I am good at finding interpretable ways to measure hard-to-capture questions.
  
 - 🔭 I’m currently working on developing the package for a bespoke Bayesian IRT Model that returns identifiable dimensions.
 - 👯 I’m always looking for new, interesting, projects.
