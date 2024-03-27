@@ -7,7 +7,15 @@ I am broadly trained, with most of my work focusing on interpretable strategies 
 - ⚡ Fun fact: in a previous life, I was a qualitative threat hunter specializing in online extremist communities.
 - 😄 Pronouns: she/her
 
-## A guide to my previous work:
+## A guide to my current and previous work:
+
+### Theoretically-grounded dimensionality reduction 
+
+My current main line of research with a lab at Duke is on applying a novel Item Response Theory (IRT) model that produces interpretable underlying dimensions.
+We are developing the code into an R package for distribution, 
+We have applications to:
+
+- Identifying latent "threat" dimensions for perception of threats to cultural, economic, health, religion, and society along with support for immigration and the European Union in the Februrary-March 2021 Eurobarometer survey (round 94.3).
 
 ### Measuring Geopolitical Risk Factors
 I have a long-running research program on using machine learning and event data to estimate the behavior of actors who contribute to geopolitical threats. 
@@ -21,6 +29,8 @@ Projects in that line of research include:
 I have created synthetic data and custom code to benchmark the performance of quantitative methods applied to qualitative contexts. 
 
 My work here focuses on techniques for (1) network and (2) unstructured text data.
+
+- [Negotiations Sim](./wto_classification_sim/tree/master/) This repository contains code to benchmark the performance of machine learning classifiers based on real negotiation data from an international organization and benchmarked against a synthetic dataset.
 
 - [Dominos](./https://github.com/margaretfoster/Dominos), a model that simulates network-based recruitment and collapse of a community. The model tests the claim that users recruited into a community together tend to also leave together if any of them become unhappy. The simulation asks what network structures are most resilient to these disruptions. You can check out a design mockup of the project [here](./slides/blob/main/Dominos_Concept_Mockup.pdf) and [look at some of the results](./slides/blob/main/Dominos_Presentation_Dec92022.pdf) in the form of a presentation that I gave to a working group on Organizational Studies organized by Stanford's Center for Advanced Study in the Behavioral Science. The biggest takeaway is that "small world" type networks, where users have lots of local connections are the most stable when people start to leave. Conversely, communities that start with a few highly connected influencers are vulnerable to collapse... even if the influencers were part of the group before the new people came in!
  
