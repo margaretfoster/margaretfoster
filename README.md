@@ -28,8 +28,9 @@ Projects in that line of research include:
 
 I have created synthetic data needed for custom applications.
 
-- [Negotiations Sim](./wto_classification_sim/) This repository contains code to create synthetic text negotiation data in which there are two competing frames that may or may not overlap. I created it to help me develop and test methods to model and predict political outcomes in the data, including gridlock. The repository includes classification performance benchmarks at different levels of ground-truth labels for five popular machine learning algorithms (K-Nearest Neighbors, Naive Bayes, Random Forest, Ridge Regression, and Support Vector Machines). The tag levels (5%, 10%, or 25%) are intended to provide a guideline for researchers looking for a guideline for how much of this type of data to tag. Across all levels of ground truth, Random Forest performed best.
-- 
+- [Negotiations Sim](./wto_classification_sim/) This repository contains code to create synthetic text negotiation data with two competing frames of interest that may or may not overlap. I created it to help me develop and test methods to model and predict political outcomes in the data, including gridlock. The repository includes classification performance benchmarks at different levels of ground-truth labels for five popular machine learning algorithms (K-Nearest Neighbors, Naive Bayes, Random Forest, Ridge Regression, and Support Vector Machines). The tag levels (5%, 10%, or 25%) are intended to provide a guideline for researchers looking for a guideline for how much of this type of data to tag. Across all levels of ground truth, Random Forest performed best.
+
+  
 ### Benchmarking the performance of quantitative methods applied to qualitative data 
 
 I have designed and implemented custom code to benchmark the performance of quantitative methods applied to qualitative contexts. 
