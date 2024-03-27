@@ -13,9 +13,11 @@ I am broadly trained, with most of my work focusing on interpretable strategies 
 
 My current main line of research with a lab at Duke is on applying a novel Item Response Theory (IRT) model that produces interpretable underlying dimensions.
 We are developing the code into an R package for distribution, 
-We have applications to:
+
+Our current projects include:
 
 - Identifying latent "threat" dimensions for perception of threats to cultural, economic, health, religion, and society along with support for immigration and the European Union in the Februrary-March 2021 Eurobarometer survey (round 94.3).
+- Extracting a latent "satisfaction with the status quo" dimension from more than 100,000 respondents to rounds 4, 5, and 6 of the Afrobarometer survey in 34 countries. We correlate the satisfaction dimension with the local occurrance of instability and anti-state mobilization. 
 
 ### Measuring Geopolitical Risk Factors
 I have a long-running research program on using machine learning and event data to estimate the behavior of actors who contribute to geopolitical threats. 
