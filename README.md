@@ -24,13 +24,17 @@ Projects in that line of research include:
 
 - [Subject to Change](./https://github.com/margaretfoster/SubjectToChange), which uses news reporting to estimate change years for civil war conflict actors. [You can check out the project](.slides/blob/main/Foster-TargetRWETalk_2024.pdf), via slides I prepared for a 2024 talk. 
 
+### Custom Synthetic data
+
+I have created synthetic data needed for custom applications.
+
+- [Negotiations Sim](./wto_classification_sim/) This repository contains code to create synthetic text negotiation data in which there are two competing frames that may or may not overlap. I created it to help me develop and test methods to model and predict political outcomes in the data, including gridlock. The repository includes classification performance benchmarks at different levels of ground-truth labels for five popular machine learning algorithms (K-Nearest Neighbors, Naive Bayes, Random Forest, Ridge Regression, and Support Vector Machines). The tag levels (5%, 10%, or 25%) are intended to provide a guideline for researchers looking for a guideline for how much of this type of data to tag. Across all levels of ground truth, Random Forest performed best.
+- 
 ### Benchmarking the performance of quantitative methods applied to qualitative data 
 
-I have created synthetic data and custom code to benchmark the performance of quantitative methods applied to qualitative contexts. 
+I have designed and implemented custom code to benchmark the performance of quantitative methods applied to qualitative contexts. 
 
 My work here focuses on techniques for (1) network and (2) unstructured text data.
-
-- [Negotiations Sim](./wto_classification_sim/tree/master/) This repository contains code to benchmark the performance of machine learning classifiers based on real negotiation data from an international organization and benchmarked against a synthetic dataset.
 
 - [Dominos](./https://github.com/margaretfoster/Dominos), a model that simulates network-based recruitment and collapse of a community. The model tests the claim that users recruited into a community together tend to also leave together if any of them become unhappy. The simulation asks what network structures are most resilient to these disruptions. You can check out a design mockup of the project [here](./slides/blob/main/Dominos_Concept_Mockup.pdf) and [look at some of the results](./slides/blob/main/Dominos_Presentation_Dec92022.pdf) in the form of a presentation that I gave to a working group on Organizational Studies organized by Stanford's Center for Advanced Study in the Behavioral Science. The biggest takeaway is that "small world" type networks, where users have lots of local connections are the most stable when people start to leave. Conversely, communities that start with a few highly connected influencers are vulnerable to collapse... even if the influencers were part of the group before the new people came in!
  
