@@ -14,7 +14,7 @@ I have a long-running research program on using machine learning and event data 
 This is a tricky problem technically because data on internal processes is hard (or impossible!) to access. However, having estimates of change is important for improving risk evaluations because such actors decrease security and destabilize governance and trade.
 Projects in that line of research include:
 
-- [Subject to Change](./https://github.com/margaretfoster/SubjectToChange), which uses news reporting to estimate change years for civil war conflict actors 
+- [Subject to Change](./https://github.com/margaretfoster/SubjectToChange), which uses news reporting to estimate change years for civil war conflict actors. [You can check out the project](.slides/blob/main/Foster-TargetRWETalk_2024.pdf), via slides I prepared for a 2024 talk. 
 
 ### Benchmarking the performance of quantitative methods applied to qualitative data 
 
