@@ -9,18 +9,18 @@ I am broadly trained, with most of my work focusing on interpretable strategies 
 
 ## A guide to my previous work:
 
-1. Measuring Geopolitical Risk Factors
+### Measuring Geopolitical Risk Factors
 I have a long-running research program on using machine learning and event data to estimate the behavior of actors who contribute to geopolitical threats. 
 This is a tricky problem technically because data on internal processes is hard (or impossible!) to access. However, having estimates of change is important for improving risk evaluations because such actors decrease security and destabilize governance and trade.
 Projects in that line of research include:
 
 - [Subject to Change](./https://github.com/margaretfoster/SubjectToChange), which uses news reporting to estimate change years for civil war conflict actors 
-- 
 
-2. Benchmarking the performance of quantitative methods applied to qualitative data 
-I have created synthetic data and custom code to benchmark the performance of quantitative methods applied to qualitative contexts. My work here focuses on techniques for (1) network and (2) unstructured text data.
+### Benchmarking the performance of quantitative methods applied to qualitative data 
 
-(1) Analysis of empirical and simulated network data:
+I have created synthetic data and custom code to benchmark the performance of quantitative methods applied to qualitative contexts. 
+
+My work here focuses on techniques for (1) network and (2) unstructured text data.
 
 - [Dominos](./https://github.com/margaretfoster/Dominos), a model that simulates network-based recruitment and collapse of a community. The model tests the claim that users recruited into a community together tend to also leave together if any of them become unhappy. The simulation asks what network structures are most resilient to these disruptions. You can check out a design mockup of the project [here](./slides/blob/main/Dominos_Concept_Mockup.pdf) and look at some of the results [here](./slides/blob/main/Dominos_Presentation_Dec92022.pdf) in the form of a presentation that I gave to a working group on Organizational Studies organized by Stanford's Center for Advanced Study in the Behavioral Science.
  
