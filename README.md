@@ -1,6 +1,6 @@
 ## Hi! 👋 I am Margaret Foster, a quantitative researcher and data scientist. I am good at developing and implementing techniques to measure abstract or hard-to-capture problems. 
 
-I am broadly trained, with most of my work focusing on interpretable strategies for analyzing text and event data. 
+I am broadly trained, with most of my work focusing on interpretable strategies for analyzing text, network, and event data. 
 
 - 🔭 I’m currently working on developing the package for a bespoke Bayesian IRT Model that returns identifiable dimensions.
 - 👯 I’m always looking for new, interesting, projects. Reach out via [LinkedIn](https://www.linkedin.com/in/margaretjfoster/) or email.
@@ -11,13 +11,13 @@ I am broadly trained, with most of my work focusing on interpretable strategies 
 
 ### Theoretically-grounded dimensionality reduction 
 
-My current main line of research with a lab at Duke is on applying a novel Item Response Theory (IRT) model that produces interpretable underlying dimensions.
-We are developing the code into an R package for distribution, 
+My current main line of research with a lab at Duke is on applying a novel Item Response Theory model--- called IRT-M---that produces interpretable underlying dimensions.
+The package is available at the [IRT-M Github repository](https://github.com/dasiegel/IRT-M) and can be installed for R using your preferred GitHub-supporting package installer, such as `install_github()` call from `devtools` or `pgk_install()` from the `pak` library. 
 
-Our current projects include:
+Our current projects use IRT-M to:
 
-- Identifying latent "threat" dimensions for perception of threats to cultural, economic, health, religion, and society along with support for immigration and the European Union in the Februrary-March 2021 Eurobarometer survey (round 94.3).
-- Extracting a latent "satisfaction with the status quo" dimension from more than 100,000 respondents to rounds 4, 5, and 6 of the Afrobarometer survey in 34 countries. We correlate the satisfaction dimension with the local occurrance of instability and anti-state mobilization. 
+- Identify latent "threat" dimensions for perception of threats to cultural, economic, health, religion, and society along with support for immigration and the European Union in the Februrary-March 2021 Eurobarometer survey (round 94.3).
+- Extract a latent "satisfaction with the status quo" dimension from more than 100,000 respondents to rounds 4, 5, and 6 of the Afrobarometer survey in 34 countries. We correlate the satisfaction dimension with the local occurrance of instability and anti-state mobilization. 
 
 ### Measuring Geopolitical Risk Factors
 I have a long-running research program on using machine learning and event data to estimate the behavior of actors who contribute to geopolitical threats. 
