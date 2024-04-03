@@ -24,7 +24,7 @@ I have a long-running research program on using machine learning and event data 
 This is a tricky problem technically because data on internal processes is hard (or impossible!) to access. However, having estimates of change is important for improving risk evaluations because such actors decrease security and destabilize governance and trade.
 Projects in that line of research include:
 
-- [Subject to Change](https://github.com/margaretfoster/SubjectToChange/), which uses news reporting to estimate change years for civil war conflict actors. [You can check out the project](.slides/blob/main/Foster-TargetRWETalk_2024.pdf), via slides I prepared for a 2024 talk.
+- [Subject to Change](https://github.com/margaretfoster/SubjectToChange/), which uses news reporting to estimate change years for civil war conflict actors. In addition to the GitHub repository, you can check out a [presentation of the project](https://github.com/margaretfoster/slides/blob/main/Foster-TargetRWETalk_2024.pdf), via slides I prepared for a 2024 talk.
 
 - [Growth Trap](https://github.com/margaretfoster/growthtrap_rep/) models the on-the-ground implications of internal organizational change in an opaque, high-impact, geopolitical actor. It models changes in target preferences in al-Qaeda in the Arabian Peninsula (AQAP) before and after the group expanded locally. The takeaway argument from the research is that while AQAP became stronger in the sense that they had/have access to more resources, they also became less of a global threat actor, likely due to the hyperlocal preferences of their new recruitment base.
 
