@@ -1,4 +1,4 @@
-## Hi! 👋 I am Margaret Foster, a quantitative researcher and data scientist. I am good at developing and implementing techniques to measure abstract or hard-to-capture problems. 
+## Hi! 👋 I am Margaret Foster, an applied machine learning & network modeling specialist with deep expertise in complex, sparse, and geopolitical data. I develop and implement techniques to measure abstract or hard-to-capture problems. 
 
 I am broadly trained, with most of my work focusing on interpretable strategies for analyzing text, network, and event data. 
 
